@@ -2,7 +2,7 @@
     font-family: 'bm_spacea9';
     src: url('https://github.com/geokitfx/Persona3DiscordFont/blob/main/persona3-webfont.woff2') format('woff2'),
          url('https://github.com/geokitfx/Persona3DiscordFont/blob/main/persona3-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
