@@ -1,7 +1,5 @@
 @font-face {
     font-family: 'bm_spacea9';
-        font-style: normal;
-        font-weight: 400;
     src: url('https://github.com/geokitfx/Persona3DiscordFont/blob/main/persona3-webfont.woff2') format('woff2'),
          url('https://github.com/geokitfx/Persona3DiscordFont/blob/main/persona3-webfont.woff') format('woff');
 }
