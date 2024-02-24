@@ -1,0 +1,16 @@
+/**
+ * @name P3font
+ * @description PERSONA 3 FONT!
+ * @author Geokit
+ * @version 1.0.0
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --font: BM space A9;
+}
+
+/* Any custom CSS below here */
+
+
