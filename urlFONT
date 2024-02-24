@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Persona3';
-  font-style: normal;
-  font-weight: normal;
-  src: url(https://github.com/geokitfx/Persona3DiscordFont/blob/main/persona3-webfont.woff2) format('woff2');
-}
